@@ -10,4 +10,4 @@ https://www.stb.gov/wp-content/uploads/2021-STB-Waybill-Reference-Guide-V2.pdf
 ## About
  - STCC_codes.json contains the commodity code and commodity name pairing of each commodity code in the Waybill Reference Guide pdf for 2021
 
-![](https://github.com/canweffplease/STCC_codes/blob/main/Capture.PNG?raw=true)
+![Waybill](https://github.com/canweffplease/STCC_codes/blob/main/Capture.PNG?raw=true)
